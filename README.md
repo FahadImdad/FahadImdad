@@ -9,4 +9,4 @@ As a third-year BS(Computer Science) student, I am always eager to explore the w
 - 💬 Ask me about my programming adventures with C++, Java, and Python, or my latest projects in AI and XR, VR, and AR. I’d love to share my experiences and knowledge with others.
 - 📫 You can reach me at fahadimdad966@gmail.com, or connect with me on LinkedIn at https://www.linkedin.com/in/muhammad-fahad-imdad-8a4a76235. I’d be happy to hear from you!
 - 😄 Pronouns: He/Him
-= ⚡ Fun fact: When I'm not coding, I love to unleash my creative side by sketching and solving Rubik's cubes. It’s a fun way to relax and challenge my mind!
+- ⚡ Fun fact: When I'm not coding, I love to unleash my creative side by sketching and solving Rubik's cubes. It’s a fun way to relax and challenge my mind!
