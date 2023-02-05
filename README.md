@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**FahadImdad/FahadImdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Muhammad Fahad Imdad, a third-year BS(Computer Science) student who's on a mission to explore the world of technology and always eager to learn new things.
 
 - 🔭 I’m currently exploring the cutting-edge technology of AI, Machine Learning (ML), and XR,VR and AR, and working on innovative projects to bring exciting solutions to life.
