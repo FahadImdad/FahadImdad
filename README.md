@@ -1,11 +1,33 @@
-Hi there 👋
-I am a graduate in BS Computer Science with a strong passion for Data Science, AI, and Machine Learning. I am dedicated to leveraging the power of data and machine learning algorithms to create innovative solutions that address real-world challenges.
+# Hi there 👋
 
-🔭 Currently, I am focused on mastering AI and ML techniques, working on projects that explore cutting-edge advancements and push the boundaries of what’s possible in the field.
-🌱 I am constantly evolving and refining my skills in Data Science, AI, and Machine Learning. With a mindset of continuous learning, I am always excited to take on new challenges and grow professionally.
-👯 Collaboration is essential, and I am eager to connect with like-minded professionals and organizations to solve complex problems together.
-🤔 Feedback and suggestions are highly appreciated. I value the opportunity to learn from others and improve my expertise.
-💬 Ask me about my programming journey with Python, Java, and C++, or explore my recent projects in Data Science and Machine Learning. I’d love to share my experiences and insights!
-📫 You can reach me at fahadimdad966@gmail.com, or connect with me on LinkedIn at Muhammad Fahad Imdad. Looking forward to connecting with you!
-😄 Pronouns: He/Him
-⚡ Fun fact: When I’m not coding, I enjoy solving Rubik’s cubes and sketching. It’s a fun way to challenge myself and relax!
+I'm **Muhammad Fahad Imdad**, a **Computer Science graduate** with a strong passion for **Data Science**, **AI**, and **Machine Learning**. My goal is to leverage **data** and **machine learning algorithms** to create innovative solutions that tackle real-world problems.
+
+## 🚀 What I'm working on:
+- **Mastering** AI and ML techniques to build impactful projects.
+- Exploring **cutting-edge advancements** in **Data Science** and **Machine Learning**.
+- Continuously improving my skills in programming and data-driven solutions.
+
+## 🌱 I'm constantly learning:
+- Expanding my knowledge in **AI**, **ML**, and **Data Science** through personal projects, research, and online courses.
+- Always seeking new challenges to enhance my expertise and grow professionally.
+
+## 🤝 Let's connect:
+- I'm open to **collaboration** and working with like-minded individuals and organizations.
+- Feel free to reach out if you're interested in discussing projects, data science, or machine learning!
+
+## 💬 Ask me about:
+- My programming journey with **Python**, **Java**, and **C++**.
+- My latest **Data Science** and **Machine Learning** projects.
+
+## 📫 How to reach me:
+- Email: [fahadimdad966@gmail.com](mailto:fahadimdad966@gmail.com)
+- LinkedIn: [Muhammad Fahad Imdad](https://www.linkedin.com/in/muhammadfahadimdad/)
+
+## ⚡ Fun fact:
+- When I'm not coding, I love solving **Rubik's cubes** and sketching. It's a great way to relax and spark creativity!
+
+## 🏆 Tech Stack:
+- **Programming Languages**: Python, Java, C++
+- **Libraries/Frameworks**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+- **Tools**: Git, Jupyter Notebooks, VS Code
+
